@@ -1,0 +1,18 @@
+Title: Java Scientific Calculator 
+
+Synopsis:
+The Java Scientific Calculator is providing users with a versatile and powerful tool for performing complex mathematical calculations. This calculator goes beyond the basic arithmetic operations and includes a wide range of scientific and mathematical functions that are essential for students.
+
+Key Features:
+
+1. **Graphical User Interface (GUI):** The project will feature a user-friendly GUI that allows users to input and visualize mathematical expressions easily. The interface will include a keypad for numeric input, buttons for functions, and a display area to show input, results.
+
+2. **Basic Arithmetic Operations:** Users can perform standard arithmetic operations such as addition, subtraction, multiplication, and division. These operations will serve as the foundation of the calculator.
+
+3. **Scientific Functions:** The calculator will include an extensive set of scientific functions, including trigonometric functions (sine, cosine, tangent), logarithmic functions (log, ln), exponential functions (exp), and more. These functions will be easily accessible through the GUI.
+
+10. **Error Handling:** The application will provide robust error handling to ensure accurate calculations. It will handle division by zero, invalid input, and other potential issues gracefully.
+
+12. **Cross-Platform Compatibility:** The project will be designed to run on multiple platforms, ensuring accessibility to users on various operating systems.
+
+In summary, the Java Scientific Calculator aims to create a versatile and user-friendly scientific calculator that caters to the needs of students. It combines basic arithmetic operations, advanced mathematical functions, in a single code, making it a valuable tool for a wide range of users. 
